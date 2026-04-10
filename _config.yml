@@ -38,7 +38,8 @@ defaults:
     values:
       image: true
 
-
+sass:
+    style: compressed
 
 
 # Exclude from processing.
