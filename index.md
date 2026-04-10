@@ -7,18 +7,16 @@ layout: basic
 ---
 
 
-<div align='center' style='margin-top:120px;'>
+<div class="home-msg" align='center' style='margin-top:120px;'>
 
 <h1>ks-net.Gr  ....  is at Cloudflare !</h1>
 
 <span>And Feels Quite Happy !!!</span>
 <br/><br/>
-<span>( **** )</span>
+<span>( **** ) </span>
 
 
 </div>
-
-
 
 
 {% include footer.html %}
