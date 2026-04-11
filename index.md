@@ -10,9 +10,9 @@ layout: basic
 
 <p markdown="1" class="home-msg">
 
-	# My Git Site ( git.ks-net.Gr )!
+	# My Git Site ( git.ks-net.Gr )
 	
-	Comming Soon!!!
+	#####Comming Soon
 
 	*(I Hope..)*
 
