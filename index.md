@@ -7,13 +7,13 @@ layout: basic
 ---
 
 <!-- index.md start -->
-<div class="home-msg" align='center' style='margin-top:120px;'>
+<div class="home-msg">
 
 <h1>My Git Site ( git.ks-net.Gr )!</h1>
 
 	<span>Comming Soon!!!</span>
-	<br/>
-	<br/>
+		<br/>
+		<br/>
 	<span>(I Hope..) </span>
 
 
