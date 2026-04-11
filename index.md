@@ -9,7 +9,7 @@ layout: basic
 
 <div class="home-msg" align='center' style='margin-top:120px;'>
 
-<h1>My Git_Pages Site (git.ks-net.Gr)!</h1>
+<h1>My Git Site ( git.ks-net.Gr )!</h1>
 
 <span>Comming Soon!!!</span>
 <br/><br/>
