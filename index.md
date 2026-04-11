@@ -9,11 +9,11 @@ layout: basic
 
 <div class="home-msg" align='center' style='margin-top:120px;'>
 
-<h1>ks-net.Gr  ....  is at Cloudflare !</h1>
+<h1>My Git_Pages Site!</h1>
 
-<span>And Feels Quite Happy !!!</span>
+<span>Comming Soon!!!</span>
 <br/><br/>
-<span>(****) </span>
+<span>(I Hope..) </span>
 
 
 </div>
