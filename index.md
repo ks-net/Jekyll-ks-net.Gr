@@ -8,7 +8,7 @@ layout: basic
 
 <!-- index.md start-->
 
-<span markdown="1" class="home-msg">
+<div markdown="1" class="home-msg">
 
 	# My Git Site ( git.ks-net.Gr )#
 	
@@ -16,7 +16,7 @@ layout: basic
 
 	*(I Hope..)*
 
-</span>
+</div>
 
     ---
 

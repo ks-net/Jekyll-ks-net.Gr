@@ -41,13 +41,13 @@ defaults:
 sass:
     style: compressed
 
-markdown:
-    kramdown
+#markdown:
+#    kramdown
     
-kramdown:
+#kramdown:
     #syntax_highlighter: rouge
     #input: kramdown
-    auto_ids: false
+    #auto_ids: false
     #toc_levels: 1..3
     #parse_block_html: true
 
