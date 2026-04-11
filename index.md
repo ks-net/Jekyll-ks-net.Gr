@@ -9,12 +9,11 @@ layout: basic
 <!-- index.md start -->
 <div class="home-msg">
 
-<h1>My Git Site ( git.ks-net.Gr )!</h1>
+# My Git Site ( git.ks-net.Gr )! #
 
-	<span>Comming Soon!!!</span>
-		<br/>
-		<br/>
-	<span>*(I Hope..)* </span>
+Comming Soon!!!
+
+*(I Hope..)*
 
 
 </div>
