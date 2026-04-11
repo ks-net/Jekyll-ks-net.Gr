@@ -7,14 +7,10 @@ layout: basic
 ---
 
 <!-- index.md start -->
-
-
+<div class="home-msg">
 # My Git Site ( git.ks-net.Gr )! #
-
-	Comming Soon!!!
+Comming Soon!!!
 
 *(I Hope..)*
-
-
-
+</div>
 <!-- index.md end -->
