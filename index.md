@@ -7,7 +7,7 @@ layout: basic
 ---
 
 <!-- index.md start -->
-<p class="home-msg">
+<p style="text-align:center;">
 # My Git Site ( git.ks-net.Gr )! #
 Comming Soon!!!
 
