@@ -7,17 +7,19 @@
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
   </head>
   <body class="body">
+  
     <nav>
-     <!-- <a href="/">Home</a> <a href="/blog/">Blog</a> -->
+     {% include nav.html %}
     </nav>
-     <!-- <h1>{{ page.title }}</h1> -->
+     
     
 	<section>
       {{ content }}
     </section>
 	
+	
     <footer>
-      <!-- &copy; ks-net.Gr -->
+     {% include footer.html %}
     </footer>
 	
   </body>

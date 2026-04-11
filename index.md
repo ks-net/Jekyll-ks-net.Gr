@@ -11,12 +11,13 @@ layout: basic
 
 <h1>My Git Site ( git.ks-net.Gr )!</h1>
 
-<span>Comming Soon!!!</span>
-<br/><br/>
-<span>(I Hope..) </span>
+	<span>Comming Soon!!!</span>
+	<br/>
+	<br/>
+	<span>(I Hope..) </span>
 
 
 </div>
 
 
-{% include footer.html %}
+
