@@ -42,7 +42,6 @@ sass:
     style: compressed
 
 
-markdown: kramdown   
 kramdown:
   #syntax_highlighter: rouge
   #input: GFM
