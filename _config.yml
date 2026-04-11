@@ -43,11 +43,11 @@ sass:
 
 
 kramdown:
-   #syntax_highlighter: rouge
-   #input: GFM
+   syntax_highlighter: rouge
+   input: GFM
    auto_ids: false
-   #toc_levels: 1..3
-   #parse_block_html: true
+   toc_levels: 1..3
+   parse_block_html: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
