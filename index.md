@@ -18,6 +18,6 @@ layout: basic
 
 </div>
 
-     ___
+    ---
 
 <!-- index.md end -->
