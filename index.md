@@ -8,12 +8,12 @@ layout: basic
 
 <!-- index.md start-->
 
-
-	# My Git Site ( git.ks-net.Gr )
+<div markdown="1" class="home-msg">
+# My Git Site ( git.ks-net.Gr )
 	
-	**Comming Soon**
+**Comming Soon**
 
-	*(I Hope..)*
-
+*(I Hope..)*
+</div>
 
 <!-- index.md end -->
