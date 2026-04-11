@@ -6,13 +6,12 @@ title: Git - ks-net.Gr
 layout: basic
 ---
 
-<!-- index.md start -->
-<div class="home-msg">
+<span class="home-msg">
 
 	# My Git Site ( git.ks-net.Gr )!
 	Comming Soon!!!
 
 	*(I Hope..)*
 
-</div>
+</span>
 <!-- index.md end -->
