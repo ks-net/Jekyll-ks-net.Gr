@@ -6,7 +6,7 @@ title: GIT - ks-net.Gr
 layout: basic
 ---
 
-
+<!-- index.md start -->
 <div class="home-msg" align='center' style='margin-top:120px;'>
 
 <h1>My Git Site ( git.ks-net.Gr )!</h1>
@@ -18,6 +18,4 @@ layout: basic
 
 
 </div>
-
-
-
+<!-- index.md end -->
