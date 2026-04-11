@@ -13,7 +13,7 @@ layout: basic
 
 <span>And Feels Quite Happy !!!</span>
 <br/><br/>
-<span>( .****. ) </span>
+<span>(****) </span>
 
 
 </div>
