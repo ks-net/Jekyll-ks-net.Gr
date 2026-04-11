@@ -14,7 +14,7 @@ layout: basic
 	<span>Comming Soon!!!</span>
 		<br/>
 		<br/>
-	<span>(I Hope..) </span>
+	<span>*(I Hope..)* </span>
 
 
 </div>
