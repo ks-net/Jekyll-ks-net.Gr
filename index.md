@@ -11,8 +11,9 @@ layout: basic
 # My Git Site ( git.ks-net.Gr ) !   
 Comming Soon !!!<br/>
 (I Hope..)
+
 ---
-<br/>
+
 </div>
 
 
