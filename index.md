@@ -12,12 +12,12 @@ layout: basic
 Comming Soon !!!<br/>
 (I Hope..)
 
----
+--- { .white }
 
 </div>
 
 
----
+--- { .dark }
 
 
 <!-- index.md end -->
