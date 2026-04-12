@@ -11,12 +11,13 @@ layout: basic
 ![logo](assets/img/logo.png "Git - ks-net.Gr")
 # My Git Site <span class="smaller">( git.ks-net.Gr )</span> !
 {:.block }
-Comming Soon !!!<br/>
+Coming Soon !!!<br/>
 (i hope..)
 
 --- 
 {:.white }
 </div>
+
 
 --- 
 {:.dark }
