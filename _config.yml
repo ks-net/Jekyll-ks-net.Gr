@@ -38,8 +38,8 @@ defaults:
     values:
       image: true
 
-sass:
-    style: compressed
+#sass:
+#    style: compressed
 
 #markdown:
 #    kramdown
