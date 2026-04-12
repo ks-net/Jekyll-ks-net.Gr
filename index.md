@@ -8,6 +8,7 @@ layout: basic
 
 <!-- index.md start-->
 <div markdown="1" class="home-msg">
+![](assets/img/logo.png)
 # My Git Site ( git.ks-net.Gr ) !   
 Comming Soon !!!<br/>
 (I Hope..)
