@@ -10,7 +10,9 @@ layout: basic
 <div markdown="1" class="home-msg">
 # My Git Site ( git.ks-net.Gr ) !   
 Comming Soon !!!<br/>
-(I Hope..)<br/>
+(I Hope..)
+---
+<br/>
 </div>
 
 
