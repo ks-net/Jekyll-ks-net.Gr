@@ -1,0 +1,49 @@
+---
+# TRIPLE DASHES are IMPORTANT !!! BEWARE!
+---
+
+// start always the file with two lines of triple dashes
+
+// Jekyll provides built-in support for Sass and can work with CoffeeScript via a Ruby gem. In order to use them, you must first create a file with the proper extension name (one of .sass, .scss, or .coffee) and start the file with two lines of triple dashes
+
+// start style
+
+
+.body {
+	background-color: #222;
+	color:#f2f2f2;
+	background-image: url("img/bg.jpg");
+	}
+
+hr {
+    border-top: 0px;
+    border-style: solid;
+}
+
+hr.white {
+    color: #dadada;
+}
+
+hr.dark {
+    color: #222;
+}
+	
+.home-msg {
+    margin: 90px auto;
+	margin-bottom:10px
+    text-align: center;
+    padding: 40px 42px 60px 42px;
+    background: #f2f2f2;
+    border-radius: 6px 6px 2px 2px;
+    color: #444;
+    max-width: fit-content;
+}	
+
+.footer {
+	text-align:center;
+	margin:20px 0 30px 0;
+	padding:10px 30px 20px 30px ;
+	color:#555;
+	//background:#333; 
+	font-size:16px;
+	}	
