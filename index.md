@@ -12,7 +12,7 @@ layout: basic
 # My Git Site <span class="smaller">( git.ks-net.Gr )</span> !
 {:.block }
 Coming Soon. !!!<br/>
-(i hope..)
+(i hope...)
 
 --- 
 {:.white }
